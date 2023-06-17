@@ -1,3 +1,4 @@
+import jenkins
 jenkins_url = 'http://globegatepmx/Citrix/Web/'
 # Create server
 server = Jenkins(jenkins_url, username='yuktal', password='Amdocs@2023')
